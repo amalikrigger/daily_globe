@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "884433366729",
+    "project_id": "daily-globe-6d009",
+    "storage_bucket": "daily-globe-6d009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884433366729:android:418a879857bee04e7b6718",
+        "android_client_info": {
+          "package_name": "com.globe.daily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884433366729-cen82bdguesl785l0khiaf42525aku3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ7iYdqtSm9TQEFqN6K94frNI4Q0FbgKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884433366729-cen82bdguesl785l0khiaf42525aku3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "884433366729-6qr9dafpupukhcob9kfo63jb1toii539.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.globe.daily"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
